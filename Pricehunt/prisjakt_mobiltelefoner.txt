@@ -1,0 +1,363 @@
+Samsung Galaxy S4 LTE GT-i9505 16GB;              4390:-     85    8.40
+Samsung Galaxy S4 Mini LTE GT-i9195 8GB;          2990:-      7    8.47
+Samsung Galaxy S4 Active LTE GT-i9295 16GB;       4382:-      6    6.82
+Samsung Galaxy S III GT-i9300 16GB;               2976:-    241    9.45
+Samsung Galaxy Trend GT-S7560;                     990:-      0    -
+Samsung Galaxy Mega LTE GT-i9205 8GB;             3490:-      3    8.78
+Samsung Galaxy Note II LTE GT-N7105 16GB;         3850:-     46    9.20
+Samsung Galaxy S III Mini NFC GT-i8190 8GB;       1899:-      4    5.64
+Samsung Galaxy S III LTE GT-i9305 16GB;           3570:-     24    7.58
+Samsung Ativ S GT-i8750 16GB;                     1849:-     11    8.66
+Samsung Galaxy Y GT-S5360;                         499:-      5    7.50
+Samsung Galaxy S II Plus GT-i9105;                2190:-      5    7.67
+Samsung Galaxy S III Mini GT-i8190 8GB;           1850:-     25    8.08
+Samsung Galaxy Xcover II GT-S7710;                2055:-      9    5.66
+Samsung Galaxy S Advance GT-i9070;                1650:-     11    8.18
+Samsung Galaxy Note II GT-N7100 16GB;             3590:-     88    9.50
+Samsung Galaxy S4 Zoom SM-C1010;                  3849:-      0    -
+Samsung GT-E1150;                                  129:-      9    7.47
+Samsung Galaxy Xcover GT-S5690;                   1115:-     19    4.46
+Samsung Galaxy S II GT-i9100 16GB;                2495:-    426    9.14
+Samsung Galaxy Pocket Neo GT-S5310;                785:-      1    5.63
+Samsung Galaxy Ace GT-S5830;                       995:-     35    4.80
+Samsung Xcover 271 GT-B2710;                       809:-     22    6.55
+Samsung Galaxy Ace II GT-i8160;                   1490:-      5    7.87
+Samsung Galaxy S DuoS GT-S7562;                   1633:-      1    6.46
+Samsung Galaxy S4 LTE GT-i9505G Google 16GB;      5789:-      0    -
+Samsung GT-S5610;                                  499:-      2    3.67
+Samsung Galaxy Ace 3 GT-S7275;                    2399:-      0    -
+Samsung Galaxy Pocket Plus GT-S5301;               629:-      3    4.22
+Samsung Galaxy Pocket GT-S5300;                    499:-      4    7.36
+Samsung Galaxy Fame GT-S6810;                     1290:-      0    -
+Samsung Galaxy W GT-i8150;                        1390:-     11    5.86
+Samsung Galaxy Mini 2 GT-S6500;                    990:-      0    -
+Samsung Galaxy Grand GT-i9082;                    2639:-      0    -
+Samsung GT-E1190;                                  179:-      1    5.33
+Samsung GT-C3520;                                  588:-      0    -
+Samsung Galaxy Star GT-S5280;                      839:-      0    -
+Samsung Galaxy S III GT-i9300 64GB;               4115:-      0    -
+Samsung Galaxy Y DuoS GT-S6102;                    949:-      0    -
+Samsung Caspi GT-E3210;                            485:-      1    7.52
+Samsung GT-E1080;                                  125:-     13    6.25
+Samsung Galaxy Ace GT-S5830i;                     1280:-      1    4.66
+Samsung Galaxy Beam GT-i8530;                     3615:-      5    8.05
+Samsung Galaxy Ace DuoS GT-S6802;                 1246:-      0    -
+Samsung Galaxy S III GT-i9300 32GB;               3928:-      0    -
+Samsung GT-C3595;                                  597:-      0    -
+Samsung GT-E2530;                                  512:-      0    -
+Samsung Galaxy Ace II NFC GT-i8160;               1399:-      0    -
+Samsung GT-E2200;                                  357:-      0    -
+Samsung Galaxy S II GT-i9100G 16GB;               3733:-      0    -
+Samsung Galaxy S Advance NFC GT-i9070;            2179:-      0    -
+Samsung Wave GT-S8500;                            1699:-     26    6.91
+Samsung Star 3 DuoS GT-S5222;                      991:-      0    -
+Samsung Chat 357 GT-S3570;                         789:-      0    -
+Samsung GT-E1280;                                  225:-      0    -
+Samsung GT-C3780;                                  635:-      0    -
+Samsung Star II GT-S5260;                          623:-      1    6.03
+Samsung Wave 578 GT-S5780;                        1003:-      0    -
+Samsung Omnia W GT-i8350;                         1523:-      9    7.69
+Samsung SGH-X650;                                  200:-      1    6.85
+Samsung Xcover GT-E2370;                           556:-     10    7.80
+Samsung Touchwiz SGH-F480;                         600:-     30    6.89
+Samsung Galaxy SL GT-i9003;                       2504:-      1    6.71
+Samsung Wave 2 GT-S8530;                          3490:-      0    -
+Samsung Omnia Lite GT-B7300;                      1200:-      2    2.45
+Samsung Wave 723 GT-S7230;                        1399:-      0    -
+Samsung Omnia Pro 4 GT-B7350;                     1125:-      0    -
+Samsung Ultra Touch GT-S8300;                     2349:-     15    6.41
+Samsung Evo SGH-U700;                             1749:-      5    6.56
+Samsung GT-B7722;                                  999:-      2    4.07
+Samsung GT-E1170;                                  199:-      0    -
+Samsung SGH-i600;                                 2499:-      4    5.56
+Samsung Galaxy GT-i7500;                          3599:-     24    5.20
+Samsung GT-S5510;                                 1649:-      3    8.30
+Samsung GT-C6625;                                  949:-      1    5.26
+Samsung GT-E2121;                                  558:-      0    -
+Samsung Galaxy Core DuoS GT-i8262 8GB;            2293:-      0    -
+Samsung GT-E2350;                                  530:-      0    -
+Sony Xperia Z Ultra C6833;                        5995:-     14    9.42
+Sony Xperia Z C6603;                              4031:-     68    7.51
+Sony Xperia V;                                    2867:-     41    7.61
+Sony Xperia Go;                                   1490:-     41    6.45
+Sony Xperia SP C5303;                             2789:-      3    8.04
+Sony Xperia Tipo;                                  699:-     15    7.89
+Sony Xperia L C2105;                              2013:-      4    8.12
+Sony Xperia ZL C6503;                             4449:-      0    -
+Sony Xperia J;                                    1499:-      1    3.05
+Sony Xperia S;                                    2389:-     96    9.02
+Sony Xperia U;                                    1390:-     19    6.42
+Sony Xperia P;                                    1903:-     19    6.93
+Sony Xperia Acro S;                               2676:-     32    7.69
+Sony Xperia Ion;                                  2476:-      5    8.63
+Sony Xperia Miro;                                 1490:-      0    -
+Sony Xperia M C1905;                              1903:-      0    -
+Sony Xperia T;                                    2450:-      0    -
+Sony Xperia Neo L;                                1694:-      0    -
+Sony Xperia SL;                                   2545:-      0    -
+Sony Xperia Z C6602;                              4387:-      0    -
+HTC One 32GB;                                     4596:-     89    8.90
+HTC One Mini;                                     4009:-      0    -
+HTC One S;                                        2589:-     16    8.44
+HTC One X+ 64GB;                                  3458:-      7    8.41
+HTC One X 32GB;                                   3266:-    133    7.95
+HTC One SV;                                       2971:-      1    8.14
+HTC One Google Play Edition 32GB;                 5195:-      0    -
+HTC 8S;                                           1574:-      5    5.47
+HTC Desire C;                                     1193:-      3    6.60
+HTC Wildfire S;                                   1000:-     26    5.62
+HTC Explorer;                                     1167:-      9    6.85
+HTC Sensation;                                    3477:-     61    7.94
+HTC 7 Trophy;                                     1199:-     15    7.95
+HTC Incredible S;                                 2299:-     43    7.06
+HTC Desire 500;                                   2115:-      0    -
+HTC Rhyme;                                        1499:-      0    -
+HTC Desire S;                                     2005:-     39    7.69
+HTC ChaCha;                                       1499:-      1    6.68
+HTC One X 16GB;                                   3274:-      0    -
+HTC Sensation XL Solo;                            3449:-      1    8.50
+HTC Desire Z;                                     4930:-     47    8.51
+HTC Desire;                                       4499:-    362    9.30
+HTC Desire V;                                     2189:-      0    -
+HTC Desire HD;                                    1999:-    128    8.70
+HTC Radar;                                        1850:-     10    8.35
+HTC Wildfire;                                     2504:-    119    6.70
+HTC Hero;                                         3499:-    170    8.92
+HTC Legend;                                       1599:-    112    7.80
+HTC Gratia;                                       1450:-     14    8.20
+HTC Sensation XL Lite;                            3165:-      0    -
+HTC J;                                            4401:-      0    -
+HTC Tattoo;                                       1150:-     36    6.76
+HTC S740;                                         4686:-     10    5.35
+HTC Dream (G1);                                   5499:-      3    6.68
+HTC Touch Pro 2;                                  1675:-      4    7.56
+HTC One XL 32GB;                                  2832:-      0    -
+Apple iPhone 5 16GB;                              5000:-    115    6.69
+Apple iPhone 4 8GB;                               2940:-     13    6.05
+Apple iPhone 4S 16GB;                             4433:-    146    7.77
+Apple iPhone 5 32GB;                              5829:-     32    8.48
+Apple iPhone 4 16GB;                              3499:-    258    8.03
+Apple iPhone 5 64GB;                              6700:-     15    9.28
+Apple iPhone 3GS 8GB;                             2249:-     15    8.46
+Apple iPhone 4S 32GB;                             4490:-     38    8.01
+Apple iPhone 4S 64GB;                             6599:-     10    6.81
+Apple iPhone 4 32GB;                              5299:-     83    8.70
+Apple iPhone 3GS 16GB;                            1748:-    150    8.86
+Apple iPhone 3GS 32GB;                            1979:-     92    9.04
+Apple iPhone 3G 8GB;                              1125:-     98    8.88
+Nokia Lumia 925;                                  3788:-      7    9.49
+Nokia Lumia 520;                                  1299:-      9    9.46
+Nokia Lumia 920;                                  2676:-    145    9.29
+Nokia Lumia 1020;                                 5836:-      0    -
+Nokia Lumia 620;                                  1689:-     24    7.93
+Nokia Lumia 820;                                  2276:-     10    7.67
+Nokia 301;                                         678:-      0    -
+Nokia Lumia 900;                                  1999:-     13    8.81
+Nokia Lumia 800;                                  1790:-    131    9.25
+Nokia C2-05;                                       390:-      0    -
+Nokia 101;                                         258:-      3    8.44
+Nokia 206;                                         539:-      0    -
+Nokia N9 16GB;                                    1999:-     47    8.14
+Nokia Lumia 625;                                  2418:-      0    -
+Nokia 808 PureView;                               3071:-     18    8.68
+Nokia Asha 311;                                    888:-      0    -
+Nokia 301 Dual SIM;                                761:-      0    -
+Nokia Asha 205 Dual SIM;                           576:-      0    -
+Nokia 206 Dual SIM;                                607:-      1    8.31
+Nokia 700;                                        1500:-      1    4.93
+Nokia N8;                                         3000:-    127    7.63
+Nokia 112;                                         443:-      0    -
+Nokia Asha 205;                                    552:-      0    -
+Nokia 1800;                                        210:-      5    2.64
+Nokia Asha 305;                                    669:-      0    -
+Nokia Lumia 710;                                  1590:-      9    7.50
+Nokia Asha 203;                                    542:-      0    -
+Nokia C2-03;                                       634:-      0    -
+Nokia 2730 Classic;                                680:-     10    6.40
+Nokia Lumia 510;                                  1442:-      1    6.57
+Nokia Asha 309;                                    888:-      0    -
+Nokia X2-02;                                       611:-      0    -
+Nokia C2-00;                                       450:-      1    5.57
+Nokia C2-02;                                       588:-      0    -
+Nokia C5-03;                                      1139:-      0    -
+Nokia 3720 Classic;                               1495:-     17    8.20
+Nokia Oro;                                        4546:-      0    -
+Nokia 6310i;                                       895:-      1    5.99
+Nokia 1616;                                        395:-      6    2.85
+Nokia E5;                                         1883:-      2    5.64
+Nokia C7-00;                                      2000:-     16    8.89
+Nokia N86 8MP;                                    3800:-     20    6.91
+Nokia Asha 202;                                    829:-      0    -
+Nokia 5140i;                                       995:-      9    8.45
+Nokia 5230;                                       1610:-     37    7.73
+Nokia N85;                                         850:-     27    6.90
+Nokia C1-01;                                       411:-      2    5.09
+Nokia E52;                                        2678:-     33    4.55
+Nokia X2-01;                                       773:-      0    -
+Nokia E6;                                         1785:-     10    7.51
+Nokia E7;                                         2750:-      6    7.25
+Nokia Asha 200;                                    821:-      0    -
+Nokia 8850;                                       1099:-      0    -
+Nokia X3-02 Touch and Type;                       1311:-      4    5.79
+Nokia 5200;                                        530:-      1    6.65
+Nokia E72;                                        1814:-     31    7.03
+Nokia C6-00;                                      1450:-      1    3.44
+Nokia 6700 Slide;                                 1699:-      5    7.42
+Nokia E75;                                         850:-      8    6.23
+Nokia 1112;                                        423:-      1    7.17
+Nokia X3;                                         1499:-      0    -
+Nokia 3600 Slide;                                 1806:-      0    -
+Nokia 6300 Gold;                                  1495:-      0    -
+Nokia 6250;                                       1499:-      0    -
+Google Nexus 4 16GB;                              2849:-    109    9.05
+Google Nexus 4 8GB;                               2790:-      0    -
+Google Galaxy Nexus;                              2876:-    125    8.59
+Google Nexus One;                                 7499:-    117    9.76
+CAT B15;                                          2699:-      1    7.01
+CAT B10;                                          2931:-      0    -
+LG Optimus 4X HD P880;                            2302:-     30    8.67
+LG Optimus G E975;                                3518:-     21    8.60
+LG Optimus L7 P700;                               1111:-      3    4.59
+LG Optimus L5 E610;                                990:-      3    7.01
+LG Optimus L9 P760;                               1990:-      6    9.33
+LG Optimus F5 P875;                               2679:-      0    -
+LG Optimus L5 II E460;                            1449:-      1    5.98
+LG Optimus 2X P990;                               1999:-     96    6.38
+LG Optimus True HD LTE P936;                      2352:-      2    5.70
+LG Optimus L3 II E430;                             799:-      0    -
+LG Optimus L3 E400;                                695:-      2    4.36
+LG A250;                                           619:-      1    7.42
+LG Optimus One P500;                               630:-     31    8.40
+LG G2;                                            5293:-      0    -
+LG Optimus 7 E900;                                1199:-     20    7.64
+LG Optimus 3D P920;                               4799:-      8    8.01
+LG Optimus Black P970;                            2933:-      3    5.77
+LG Optimus L1 E410;                                739:-      0    -
+LG Optimus L4 II E440;                            1018:-      0    -
+LG T385;                                           669:-      0    -
+LG Arena KM900;                                   2249:-     36    6.22
+LG Optimus Hub E510;                              1984:-      0    -
+LG Optimus 3D Max P720;                           2285:-      0    -
+LG Optimus L9 P768;                               2398:-      0    -
+Asus PadFone Infinity 2-in-1 32GB;                6914:-      2    8.43
+Asus PadFone Infinity 2-in-1 64GB;                7640:-      0    -
+Asus PadFone2 64GB;                               3467:-      3    7.68
+Asus PadFone2 2-in-1 64GB;                        4990:-      8    9.03
+Asus PadFone 16GB;                                2790:-      0    -
+Asus PadFone2 2-in-1 32GB;                        5690:-     26    7.88
+Asus PadFone2 32GB;                               6701:-      0    -
+Doro PhoneEasy 615;                                993:-      1    8.28
+Doro PhoneEasy 622;                               1391:-      0    -
+Doro PhoneEasy 740;                               1726:-      2    6.25
+Doro PhoneEasy 520X;                               949:-      0    -
+Doro PhoneEasy 507;                                578:-      0    -
+Doro HandlePlus 334gsm;                            989:-      0    -
+Doro PhoneEasy 715;                                964:-      0    -
+Doro PhoneEasy 612;                                999:-      0    -
+Doro PhoneEasy 515;                                876:-      1    7.18
+Doro PhoneEasy 614;                               1195:-      0    -
+Doro PhoneEasy 506;                                509:-      0    -
+Doro PhoneEasy 608;                                929:-      0    -
+Doro PhoneEasy 345gsm;                            1399:-      1    7.34
+Doro HandleEasy 330gsm;                           1159:-      3    7.23
+ZTE Blade III;                                     995:-     15    7.65
+ZTE Grand Era;                                    2195:-      0    -
+ZTE Nubia;                                        4695:-      0    -
+ZTE Blade;                                         799:-    195    7.88
+ZTE Blade II;                                     1100:-      3    5.63
+ZTE Tania;                                        1299:-      7    7.27
+ZTE Libra;                                        1421:-      0    -
+Huawei Ascend P6;                                 3150:-      1    6.60
+Huawei Ascend Mate;                               3695:-      1    7.06
+Huawei U9202 Ascend P1 LTE;                       1895:-      0    -
+Huawei Ascend G510;                               1599:-      0    -
+Huawei U9200 Ascend P1;                           2319:-      2    7.20
+Huawei U8685 Ascend Y210;                          799:-      0    -
+Huawei U8860 Honor;                               1523:-      5    8.41
+Huawei U8666E Ascend Y201 Pro;                    1024:-      1    5.75
+Huawei U9508 Honor 2;                             2799:-      0    -
+Huawei U8650 Sonic;                                999:-      3    6.75
+Huawei U8510 Ideos X3;                             830:-      0    -
+Huawei Ascend G615;                               2504:-      0    -
+Huawei U8655 Ascend Y200;                         1265:-      0    -
+Huawei U8800 Ideos X5 Pro;                        2168:-      1    5.04
+Huawei U8150 Ideos;                                923:-      8    4.67
+Huawei U8950 Ascend G600;                         2550:-      0    -
+BlackBerry Q10;                                   5178:-      2    8.33
+BlackBerry Z10;                                   3423:-      3    5.90
+BlackBerry Bold 9900;                             2495:-      3    8.38
+BlackBerry Q5;                                    2868:-      0    -
+BlackBerry Bold 9790;                             2432:-      0    -
+BlackBerry Curve 9380;                            1700:-      0    -
+BlackBerry Curve 9320;                            1472:-      0    -
+BlackBerry Torch 9810;                            2902:-      0    -
+BlackBerry Torch 9800;                            3646:-      3    5.02
+BlackBerry Torch 9860;                            3650:-      0    -
+BlackBerry Curve 8520;                            1550:-      2    7.46
+BlackBerry Storm 2 9520;                          3949:-      0    -
+BlackBerry Bold 9700;                             4699:-      3    8.29
+BlackBerry Storm 9500;                             752:-      1    7.39
+BlackBerry Storm 9530;                             807:-      0    -
+Sony Ericsson Xperia Ray;                         1498:-     57    8.67
+Sony Ericsson Xperia X10 Mini Pro;                1299:-    102    7.41
+Sony Ericsson Xperia Arc S;                       2546:-     39    7.94
+Sony Ericsson Live with Walkman;                   999:-      9    6.12
+Sony Ericsson Xperia Play;                        1624:-     22    8.13
+Sony Ericsson Xperia Pro;                         3449:-      7    8.11
+Sony Ericsson Xperia Mini;                         899:-     29    7.98
+Sony Ericsson Vivaz;                               999:-     42    6.33
+Sony Ericsson Xperia X8;                          1130:-     85    6.85
+Sony Ericsson Xperia Active;                      2201:-     28    7.04
+Sony Ericsson Xperia X10 Mini;                    1449:-    120    7.49
+Sony Ericsson C702;                                623:-     53    4.89
+Sony Ericsson W995;                               1595:-     68    8.22
+Sony Ericsson Xperia Neo V;                       2395:-     11    7.48
+Sony Ericsson K800i;                               999:-    156    8.69
+Sony Ericsson Xperia Arc;                         3649:-    121    8.54
+Sony Ericsson Xperia X10;                         1550:-    165    8.24
+Sony Ericsson Mix Walkman;                         699:-      2    3.47
+Sony Ericsson T700;                               1099:-     24    7.50
+Sony Ericsson Xperia X2;                          2750:-     24    3.38
+Sony Ericsson Xperia Neo;                         1595:-     57    9.38
+Sony Ericsson Xperia Mini Pro;                    1940:-     34    7.05
+Sony Ericsson W880i;                               995:-    106    8.04
+Sony Ericsson Vivaz Pro;                          1294:-     14    5.19
+Sony Ericsson Satio;                              1699:-     51    5.57
+Sony Ericsson Cedar;                               736:-     13    7.93
+Sony Ericsson Xperia X1;                           990:-    115    6.66
+Sony Ericsson K810i;                              1295:-     87    8.89
+Sony Ericsson G900;                                550:-     75    6.29
+Sony Ericsson Naite;                               699:-     18    6.26
+Sony Ericsson Hazel;                              1199:-     17    7.45
+Sony Ericsson K608i;                               600:-     11    7.33
+Sony Ericsson K790i;                               565:-      0    -
+Motorola Razr i;                                  2978:-      4    8.15
+Motorola Atrix;                                   1199:-      5    7.67
+Motorola Razr V3i D&G;                            1307:-      1    5.01
+Motorola Defy Mini;                               1795:-      7    4.68
+Motorola Razr HD;                                 3316:-      0    -
+Motorola Motosmart;                                796:-      0    -
+Motorola ES400;                                   4238:-      0    -
+Motorola Razr;                                    2394:-     33    7.87
+Motorola Defy;                                    1550:-     50    7.67
+Motorola Rizr Z8;                                 1625:-      1    7.88
+Motorola C350;                                     595:-      0    -
+Motorola L6;                                       350:-      0    -
+Motorola W375;                                     530:-      0    -
+Deltaco Tala Enkel;                                299:-      1    7.21
+Wiko Lubi II;                                      180:-      0    -
+Archos 50 Platinum;                               1990:-      1    6.52
+Archos 53 Platinum;                               2290:-      0    -
+Alcatel OneTouch Idol Ultra 6033X;                2812:-      1    5.52
+Sonim XP3340 Sentinel;                            3697:-      0    -
+Sonim XP3 Sentinel;                                941:-      0    -
+Sonim XP3 Enduro;                                 2995:-      4    7.03
+Sonim XP1300 Core;                                1971:-      3    5.94
+Sonim XP1301 NFC;                                 2521:-      0    -
+Acer Liquid Z110 Duo;                              950:-     30    9.16
+Mobistel Cynus T2;                                1788:-      5    8.63
+Oppo Find 5 16GB;                                 4299:-      0    -
+Denver GSP-100;                                    400:-      1    4.36
+Getac MH132;                                      9369:-      2    6.59
+Lenovo A820;                                      1698:-      0    -
+Siemens C75;                                       350:-      0    -
