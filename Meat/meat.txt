@@ -1,0 +1,20 @@
+Diced pork:2
+Minced beef:2
+Minced pork:2
+Chicken breast:4
+Chicken liver:4
+Filet of pork:4
+Hand of pork:4
+Pork chops:4
+Leg of chicken:4
+Pork bone:4
+Pigs trotters:4
+Loin of pork:4
+Leg of lamb:6
+Saddle of lamb:6
+Roast beef:6
+Leg of pork:6
+Lamb chops:6
+Filet of beef:6
+Brisket of beef:6
+Bacon:10
