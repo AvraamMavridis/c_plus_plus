@@ -20,18 +20,34 @@ bool sortbyday(Element a, Element b){
 	return a.second < b.second;
 }
 
-Element adjuct(Element e){
-	Element new_element;
-	new_element.first = e.first;
-	if(e.second == 1)
-		new_element.second = 2;
-	else if(e.second == 2)
-		new_element.second = 4;
-	else if(e.second > 2)
-		new_element.second = e.second + 3;
+// Element adjuct(Element e){
+// 	Element new_element;
+// 	new_element.first = e.first;
+// 	if(e.second == 1)
+// 		new_element.second = 2;
+// 	else if(e.second == 2)
+// 		new_element.second = 4;
+// 	else if(e.second > 2)
+// 		new_element.second = e.second + 3;
 
-	return new_element;
-}
+// 	return new_element;
+// }
+
+struct adjust
+{
+	Element operator()(Element e) {
+		Element new_element;
+		new_element.first = e.first;
+		if(e.second == 1)
+			new_element.second = 2;
+		else if(e.second == 2)
+			new_element.second = 4;
+		else if(e.second > 2)
+			new_element.second = e.second + 3;
+
+		return new_element;
+	}
+};
 
 int main(int argv,char** argc){
 	if(argv < 2 | argv > 3)
@@ -64,7 +80,7 @@ int main(int argv,char** argc){
   	std::copy(products.begin(), products.end(), std::ostream_iterator<Element>(std::cout, "\n"));
   	if(argv==3){
   	if(argc[2][0]=='A'){
-  		std::transform(products.begin(),products.end(),products.begin(),adjuct);
+  		std::transform(products.begin(),products.end(),products.begin(),adjust());
   	}}
   	std::sort(products.begin(),products.end(),sortbyday);
   	std::copy(products.begin(), products.end(), std::ostream_iterator<Element>(std::cout, "\n"));
