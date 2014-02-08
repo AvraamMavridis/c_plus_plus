@@ -1,3 +1,11 @@
+/*
+The following code is found in a program, where the vector v is populated with int values in 
+some way, and then sorted as shown.
+vector<int> v; 
+sort(v.begin(), v.end(), greater<int>());
+Add code to then read one integer value at a time from cin, search for the value in v with 
+std::binary_search and print if a value was found or not. */
+
 #include <iostream>
 #include <algorithm>
 #include <iterator>
